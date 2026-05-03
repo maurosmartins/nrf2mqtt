@@ -1,0 +1,48 @@
+### Footprint positions - created on Mon Feb  5 22:38:27 2024 ###
+### Printed by KiCad version 7.0.8
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                      PosX       PosY       Rot  Side
+C1        1.5pF                 C_0402_1005Metric                        134.3000  -101.8200   90.0000  top
+C2        1pF                   C_0402_1005Metric                        133.8125  -100.2950  180.0000  top
+C3        2.2nF                 C_0402_1005Metric                        137.3000  -102.7200  -90.0000  top
+C4        22pF                  C_0402_1005Metric                        137.9000  -108.5200  -90.0000  top
+C5        22pF                  C_0402_1005Metric                        137.9000  -106.6200   90.0000  top
+C6        4.7pF                 C_0402_1005Metric                        136.3000  -102.7200  -90.0000  top
+C7        1nF                   C_0402_1005Metric                        131.3000  -107.9000   90.0000  top
+C8        100nF                 C_0402_1005Metric                        148.8000  -113.1000   90.0000  top
+C9        100nF                 C_0402_1005Metric                        148.2000  -111.7000    0.0000  top
+C10       100nF                 C_0402_1005Metric                        153.8000  -102.0000   90.0000  top
+C11       100nF                 C_0402_1005Metric                        155.3000  -101.1000    0.0000  top
+C12       10uF                  C_0402_1005Metric                        154.4000  -100.0000    0.0000  top
+C13       33nF                  C_0402_1005Metric                        130.9000  -109.4000  180.0000  top
+C14       10nF                  C_0402_1005Metric                        130.3000  -107.9000   90.0000  top
+C15       10uF                  C_0402_1005Metric                        154.4000   -98.6000    0.0000  top
+C16       10uF                  C_0402_1005Metric                        148.6000  -100.8000  -90.0000  top
+C17       100nF                 C_0402_1005Metric                        154.7000  -106.0000    0.0000  top
+C20       10nF                  C_0402_1005Metric                        154.7000  -104.4000    0.0000  top
+E1        AMCA31-2R450G-S1F-T3  XDCR_AMCA31-2R450G-S1F-T3                134.3000   -96.9750   90.0000  top
+J1        Serial                PinHeader_1x04_P1.27mm_Vertical          134.4600  -113.4000   90.0000  top
+J2        Serial                PinHeader_1x04_P1.27mm_Vertical          153.7000   -94.0000  -90.0000  top
+J3        SWD_Debug             PinHeader_1x05_P1.27mm_Vertical          149.1500  -107.6000  -90.0000  top
+J4        Serial                PinHeader_1x04_P1.27mm_Vertical          151.6020  -112.1980  135.0000  top
+L1        8.2nH                 L_0402_1005Metric                        134.8000  -105.2200  180.0000  top
+L2        3.9nH                 L_0402_1005Metric                        134.3000  -103.7200   90.0000  top
+L3        2.7nH                 L_0402_1005Metric                        135.8000  -104.1200    0.0000  top
+R1        1M                    R_0402_1005Metric                        138.8000  -107.5950  -90.0000  top
+R2        4.7k                  R_0402_1005Metric                        147.7000  -113.0900   90.0000  top
+R3        22k                   R_0402_1005Metric                        130.9000  -106.4000  180.0000  top
+R4        1k                    R_0402_1005Metric                        148.5000  -110.7000    0.0000  top
+R5        47K                   R_0402_1005Metric                        154.4000   -96.6000  180.0000  top
+R6        4.7k                  R_0402_1005Metric                        148.2000  -115.6000  180.0000  top
+R7        4.7k                  R_0402_1005Metric                        148.2000  -114.5000  180.0000  top
+R9        1k                    R_0402_1005Metric                        138.4000  -116.1000    0.0000  top
+R10       4.7k                  R_0402_1005Metric                        137.8000  -115.1000    0.0000  top
+SW1       SW_MEC_5E             SW_Push_1P1T_NO_6x6mm_H9.5mm             143.0000  -102.0000    0.0000  top
+U1        nRF24L01P             QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm      134.5375  -108.3200   90.0000  top
+U2        STM32G030F6Px         TSSOP-20_4.4x6.5mm_P0.65mm               143.3000  -113.0000  180.0000  top
+U3        TC1015-xCT            SOT-23-5                                 151.2000  -101.2000    0.0000  top
+U5        MCP73831-2-OT         SOT-23-5                                 151.2000   -97.6000    0.0000  top
+U7        LSM6DS3               LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y   152.2000  -105.7000   90.0000  top
+Y1        16MHz                 Crystal_SMD_2520-4Pin_2.5x2.0mm          140.8000  -107.5000   90.0000  top
+## End

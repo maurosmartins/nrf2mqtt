@@ -1,0 +1,9 @@
+### Footprint positions - created on Mon Feb  5 22:38:28 2024 ###
+### Printed by KiCad version 7.0.8
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val           Package                 PosX       PosY       Rot  Side
+BT1       Battery_Cell  R_2010_5025Metric   143.0000   -98.9000  180.0000  bottom
+Q2        BC848         SOT-23              140.6500  -115.1625   90.0000  bottom
+R8        1k            R_0402_1005Metric   142.9000  -116.2000   90.0000  bottom
+## End

@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "johansontechnology_2450AT42B100E")(type "KiCad")(uri "${KIPRJMOD}/johansontechnology_2450AT42B100E.pretty")(options "")(descr ""))
+  (lib (name "AMCA31-2R450G-S1F-T3")(type "KiCad")(uri "${KIPRJMOD}/AMCA31-2R450G-S1F-T3")(options "")(descr ""))
+  (lib (name "ys332")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/ys332.pretty")(options "")(descr ""))
+  (lib (name "Rf")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/Rf.pretty")(options "")(descr ""))
+)
