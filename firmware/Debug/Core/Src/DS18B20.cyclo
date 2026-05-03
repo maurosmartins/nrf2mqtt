@@ -1,0 +1,6 @@
+../Core/Src/DS18B20.c:8:6:vDS18B20Init	1
+../Core/Src/DS18B20.c:16:6:readScratchPad	2
+../Core/Src/DS18B20.c:28:6:isConversionComplete	1
+../Core/Src/DS18B20.c:32:6:requestTemperature	1
+../Core/Src/DS18B20.c:38:7:getTempC	2
+../Core/Src/DS18B20.c:56:6:setResolution	5

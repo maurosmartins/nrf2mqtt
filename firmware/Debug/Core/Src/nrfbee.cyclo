@@ -1,0 +1,4 @@
+../Core/Src/nrfbee.c:20:6:vNRFBeeInit	1
+../Core/Src/nrfbee.c:69:15:u8NRFBeeSendPayload	4
+../Core/Src/nrfbee.c:169:6:vNRFBeeGetPayload	1
+../Core/Src/nrfbee.c:198:6:vNRFBeeRXMode	1

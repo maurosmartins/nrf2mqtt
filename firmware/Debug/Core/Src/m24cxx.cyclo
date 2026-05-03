@@ -1,0 +1,7 @@
+../Core/Src/m24cxx.c:34:22:i2c_wait	3
+../Core/Src/m24cxx.c:55:22:m24cxx_init	2
+../Core/Src/m24cxx.c:78:22:m24cxx_isconnected	2
+../Core/Src/m24cxx.c:96:22:m24cxx_read	6
+../Core/Src/m24cxx.c:140:22:m24cxx_write	7
+../Core/Src/m24cxx.c:188:22:m24cxx_erase	2
+../Core/Src/m24cxx.c:211:22:m24cxx_erase_all	3

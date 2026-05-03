@@ -1,0 +1,2 @@
+../Core/Src/ys332.c:12:9:PIR_ReadRaw	24	static,ignoring_inline_asm
+../Core/Src/ys332.c:62:6:vTimingTest_5us	8	static,ignoring_inline_asm

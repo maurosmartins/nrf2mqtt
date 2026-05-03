@@ -1,0 +1,4 @@
+../Core/Src/nrfbee.c:20:6:vNRFBeeInit	8	static
+../Core/Src/nrfbee.c:69:15:u8NRFBeeSendPayload	64	static
+../Core/Src/nrfbee.c:169:6:vNRFBeeGetPayload	64	static
+../Core/Src/nrfbee.c:198:6:vNRFBeeRXMode	8	static

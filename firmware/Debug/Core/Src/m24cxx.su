@@ -1,0 +1,7 @@
+../Core/Src/m24cxx.c:34:22:i2c_wait	24	static
+../Core/Src/m24cxx.c:55:22:m24cxx_init	24	static
+../Core/Src/m24cxx.c:78:22:m24cxx_isconnected	16	static
+../Core/Src/m24cxx.c:96:22:m24cxx_read	88	static
+../Core/Src/m24cxx.c:140:22:m24cxx_write	96	static
+../Core/Src/m24cxx.c:188:22:m24cxx_erase	80	dynamic
+../Core/Src/m24cxx.c:211:22:m24cxx_erase_all	48	static

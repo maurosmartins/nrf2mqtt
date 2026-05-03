@@ -1,0 +1,16 @@
+../Core/Src/main.c:67:5:__io_putchar	1
+../Core/Src/main.c:98:6:vTask_CheckPVCell	2
+../Core/Src/main.c:114:6:vTask_CheckBat	2
+../Core/Src/main.c:149:6:vTask_LEDLow	8
+../Core/Src/main.c:177:6:vTask_info	2
+../Core/Src/main.c:189:6:vTask_PIR	3
+../Core/Src/main.c:215:5:main	15
+../Core/Src/main.c:379:13:vHandleRemoteCommand	13
+../Core/Src/main.c:455:6:SystemClock_Config	3
+../Core/Src/main.c:661:13:MX_ADC1_Init	2
+../Core/Src/main.c:709:13:MX_I2C1_Init	4
+../Core/Src/main.c:756:13:MX_SPI1_Init	2
+../Core/Src/main.c:795:13:MX_TIM17_Init	2
+../Core/Src/main.c:816:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:852:13:MX_GPIO_Init	1
+../Core/Src/main.c:949:6:Error_Handler	1
